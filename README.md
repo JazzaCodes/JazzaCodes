@@ -14,7 +14,7 @@ Here's some stuff about me
 
 My Socials 🥰 
 
-twitter.com/JazzaCodes
+<button><a href="twitter.com/JazzaCodes"</a></button>
 https://www.linkedin.com/in/jazmyn-edwards-b11173b5/
 Portfolio coming soon...💭
 
