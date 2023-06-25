@@ -14,8 +14,15 @@ Here's some stuff about me
 
 My Socials 🥰 
 
-<button><a href="twitter.com/JazzaCodes"</a></button>
-https://www.linkedin.com/in/jazmyn-edwards-b11173b5/
+<div id="badges">
+  <a href="(https://www.linkedin.com/in/jazmyn-edwards-b11173b5)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="(https://twitter.com/JazzaCodes">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 Portfolio coming soon...💭
 
 <hr>
